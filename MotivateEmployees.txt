@@ -1,0 +1,19 @@
+1, Kick in the pants, it is cruel.
+2, Manager's goal shoud get the employees to move forward on their own without being pushed.
+3, Distinction job satisfaction, it is not the opposite of job dissatisfaciton.
+4, Causes of dissatisfaction  Hygiene Factors:
+    > Decent Salary
+    > Safe working condiditon
+    > Job security
+
+5, Internal factor:
+    > Chanllenging work
+    > Autonomy
+    > Recongnition
+    > Advancement
+    
+ Two prompt approach:
+    Basic external needs
+    Personally satisfying, good work recognized.
+    Avoid kick pants option.
+    
